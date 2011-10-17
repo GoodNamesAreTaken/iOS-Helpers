@@ -1,9 +1,9 @@
 //
 //  Logging.h
-//  Hess EMF
+//  iOS Helpers
 //
-//  Created by Sergei Tatarintsev on 19.04.11.
-//  Copyright 2011 Appital Mobile. All rights reserved.
+//  Created by Sergej Tatarincev on 19.04.11.
+//  Copyright 2011 GoodNamesAreTaken. All rights reserved.
 //
 
 
@@ -11,10 +11,9 @@
 #ifdef DEBUG
 
 #define AppLog NSLog
-#define APIXMLLogs YES
 
 #else
 
 #define AppLog(args...)
-#define APIXMLLogs NO
+
 #endif

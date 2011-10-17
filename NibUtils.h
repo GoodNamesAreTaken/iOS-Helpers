@@ -1,9 +1,9 @@
 /*
  *  NibUtils.h
- *  Ustabilize
+ *  iOS Helpers
  *
- *  Created by Inf on 15.03.11.
- *  Copyright 2011 __MyCompanyName__. All rights reserved.
+ *  Created by Sergej Tatarincev on 15.03.11.
+ *  Copyright 2011 GoodNamesAreTaken. All rights reserved.
  *
  */
 
